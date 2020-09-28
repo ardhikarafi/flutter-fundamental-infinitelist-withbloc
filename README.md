@@ -1,4 +1,5 @@
-# infinite_list_withbloc
+# Fundamental Flutter by ArdhikaRafi
+# Infinite_list_withbloc
 
 A new Flutter project.
 
